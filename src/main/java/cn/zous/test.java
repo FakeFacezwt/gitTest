@@ -8,5 +8,6 @@ public class test {
         System.out.println("third");
         System.out.println("master");
         System.out.println("remote push");
+        System.out.println("remote push");
     }
 }
