@@ -6,5 +6,6 @@ public class test {
         System.out.println("change");
         System.out.println("change again");
         System.out.println("third");
+        System.out.println("hot-fix");
     }
 }
